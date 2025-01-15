@@ -1,0 +1,35 @@
+/* https://www.thecoderashok.com/blog/automatic-image-slider-in-html-css-only */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .slider_container {
+    overflow: hidden;
+    width: 50%;
+
+  }
+
+  .slider {
+    position: relative;
+    width: 1000%; /* depends on nbr of pics */
+    left: 0;
+    margin: 0;
+    animation: 100s slider infinite;
+  }
+
+  .slider img {
+    width: 10%;  /* depends on nbr of pics */
+    float: left;
+
+  }
+
+  @keyframes slider{
+    0% {left: 0;}
+   
+    100% {left: -900%;}
+ }

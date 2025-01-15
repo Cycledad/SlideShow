@@ -3,6 +3,11 @@ git push -u https://github.com/Cycledad/github.io.git
 git push -u origin master
 
 
+https://cycledad.github.io/github.io/
+
+
+
+
  .fling-minislide {
     /* width:350px;  */
     width: 50vw;
@@ -15,3 +20,48 @@ git push -u origin master
 
 
 .fling-minislide {width:100%; height:0px; padding-bottom: 10%; overflow:hidden; position:relative; } 
+
+
+
+<img src="./images/BUSG2221.JPG" alt="" /> <span class="caption">Slide 1</span>         
+          <img src="./images/DUPJ6045.JPG" alt="" /> <span class="caption">Slide 2</span>
+          <img src="./images/IMG_0107.JPG" alt="" /> <span class="caption">Slide 3</span>
+
+
+
+ <img src="./images/BUSG2221.JPG" alt="" />          
+          <img src="./images/DUPJ6045.JPG" alt="" /> 
+          <img src="./images/IMG_0107.JPG" alt="" /> 
+          <img src="./images/IMG_0112.JPG" alt="" /> 
+          <img src="./images/IMG_0366.JPG" alt="" /> 
+          <img src="./images/IMG_0367.JPG" alt="" /> 
+          <img src="./images/IMG_0372.JPG" alt="" /> 
+          <img src="./images/IMG_0376.JPG" alt="" />     
+          <img src="./images/KAYLA1.JPG" alt="" /> 
+          <img src="./images/KAYLA1.JPG" alt="" /> 
+          <img src="./images/KEVIN1.JPG" alt="" /> 
+          <img src="./images/me1.JPG" alt="" /> 
+          <img src="./images/wayne1.JPG" alt="" /> 
+
+
+           @keyframes slider{
+    0% {left: 0;}
+    5.2% {left: 0;}
+    10.4% {left: -100%;}
+    15.6% {left: -100%;}
+    20.8% {left: -200%;}
+    26% {left: -200%;}
+    31.2% {left: -300%;}
+    36.4% {left: -300%;}
+    41.6% {left: -400%;}
+    46.8% {left: -400%;}
+    52% {left: -500%;}
+    57.2% {left: -500%;}
+    62.4% {left: -600%;}
+    67.6% {left: -600%;}
+    72.8% {left: -700%;}
+    78% {left: -700%;}
+    85% {left: -800%;}
+    90% {left: -800%;}
+    100% {left: -900%;}
+ }
